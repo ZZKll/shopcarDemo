@@ -1,0 +1,14 @@
+platform:ios,'8.0'
+use_frameworks!
+target 'shoping-demo' do
+
+pod 'ReactiveObjC', '~> 2.1.0'
+pod 'SDWebImage'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'Masonry'
+pod 'IQKeyboardManager'
+pod 'lottie-ios'
+end
+
